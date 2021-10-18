@@ -6,7 +6,7 @@ Implemented a Registration page and REST API using codeigniter and mysql.
 
 - Install Apache and Mysql.
 - Clone the Project folder inside opt/lampp(or Xampp)/htdocs.
-- Create a database with  name "Damensch" and import the given sql file.
+- Create a database with  name "Damensch" and import the given sql file(Damensch.sql).
 - Navigate to Project folder in terminal.
 - Run `php spark serve`.
 - Copy the url and open in browser.`eg:- http://localhost:8080/`
