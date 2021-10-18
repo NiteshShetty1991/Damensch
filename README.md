@@ -19,7 +19,7 @@ Implemented a Registration page and REST API using codeigniter and mysql.
 - UPDATE USER: http://localhost:8080/user/{id}
 - DELETE USER: http://localhost:8080/user/{id}
 
-Create user returns JWT Token which is required for other api's.
+CREATE USER returns JWT Token which is required for other api's.
 
 Unit testing is available inside test folder.
 
